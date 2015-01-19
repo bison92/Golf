@@ -1,0 +1,12 @@
+GolfBackEnd/bin
+GolfBackEnd/obj
+GolfBackEndTest/bin
+GolfBackEndTest/obj
+GolfRESTFrontController/bin
+GolfRESTFrontController/obj
+GolfRestFrontControllerTest/bin
+GolfRestFrontControllerTest/obj
+packages/*
+!packages/repositories.config
+GolfClub.v12.suo
+doc/*.docx
